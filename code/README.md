@@ -1,0 +1,1 @@
+#single-page-institute-website
